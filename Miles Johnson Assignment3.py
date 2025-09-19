@@ -1,4 +1,4 @@
-full_name =  "Jordan Smith"
+full_name =  "Jordan Smith" 
 email = "jsmith@ncat.edu"
 hometown = "Charlotte, NC"
 gradutation = "Spring 2028"
@@ -84,4 +84,5 @@ print(f"Total Courses Completed: {completed_courses_count}")
 print(f"Current Academic Load: {academic_load} weekly commitments")
 print(f"Entertainment Backlog: {len(Entertainment_backlog)} items")
 print(f"Current Hobbies: {len(Hobbies)}activities")
+
 print("================================================================")
