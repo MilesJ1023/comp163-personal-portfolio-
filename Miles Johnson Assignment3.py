@@ -1,7 +1,7 @@
-full_name =  "Jordan Smith" 
-email = "jsmith@ncat.edu"
-hometown = "Charlotte, NC"
-gradutation = "Spring 2028"
+full_name =  "Miles Johnson" 
+email = "mcjohnson3@aggies.ncat.edu"
+hometown = "Maryland, MD"
+gradutation = "Spring 2029"
 major = "Computer Science"
 #list
 current_courses = ["COMP 163", "MATH 150", "ENG 101", "HIS 105"]
@@ -86,3 +86,4 @@ print(f"Entertainment Backlog: {len(Entertainment_backlog)} items")
 print(f"Current Hobbies: {len(Hobbies)}activities")
 
 print("================================================================")
+
