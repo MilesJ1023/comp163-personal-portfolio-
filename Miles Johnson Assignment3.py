@@ -21,12 +21,12 @@ Career_interest = {"Software development","Web development","Data science","Game
 Hobbies = {"Gaming", "Photography", "Reading", "Taekwondo"}
 Entertainment_backlog = {"One Piece", "Dexter", "Gintama", "2k", "Breaking Bad"}
 #dictionary
-course_credit_dict = {"COMP 163":3, "MATH 150":3, "ENG 101":3, "HIS 105":3}
-course_professor_dict = {"COMP 163":"Prof. Rhodes", "MATH 150":"Dr. Lee", "ENG 101":"Dr. Martinez", "HIS 105": "Dr. Brown"}
-course_room_dict = {"COMP 163": "M-Eric 300", "MATH 150": "Marteena 201", "ENG 101": "Crosby 121", "HIS 105": "Crosby 210"}
-monthly_budget_dict = {"Food": 450, "Entertainment": 200, "Books": 125, "Transportation": 100}
+course_credit_dict = {"COMP 163":3, "MATH 110":3, "ENG 100":3, "HIS 106":3}
+course_professor_dict = {"COMP 163":"Prof. Rhodes", "MATH 110":"Dr. Johnson", "ENG 100":"Dr. Jefferson", "HIS 106": "Dr. Brown"}
+course_room_dict = {"COMP 163": "M-Eric 300", "MATH 110": "Marteena 208", "ENG 100": "Online", "HIS 106": "Online2"}
+monthly_budget_dict = {"Food": 200, "Entertainment": 100, "Books": 0, "Transportation": 100}
 study_hours_per_subject = {"Programming": 10, "Math": 8, "English": 4, "History": 3}
-contact_directory_dict = {"Mom": "704-555-0199", "Roommate": "336-555-7821", "Academic Advisor": "336-334-5000"}
+contact_directory_dict = {"Mom": "301-787-4057", "Roommate": "336-555-7821", "Academic Advisor": "336-334-5000"}
 #calculations
 total_credit_hours = sum(credit_hours)
 cumulative_gpa = sum(gpa_history) / len(gpa_history)
@@ -86,6 +86,7 @@ print(f"Entertainment Backlog: {len(Entertainment_backlog)} items")
 print(f"Current Hobbies: {len(Hobbies)}activities")
 
 print("================================================================")
+
 
 
 
