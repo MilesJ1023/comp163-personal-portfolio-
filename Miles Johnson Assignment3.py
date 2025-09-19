@@ -4,8 +4,8 @@ hometown = "Maryland, MD"
 gradutation = "Spring 2029"
 major = "Computer Science"
 #list
-current_courses = ["COMP 163", "MATH 150", "ENG 101", "HIS 105"]
-completed_courses = ["Biology", "Chemistry", "Calculus", "Spanish ll", "World History"]
+current_courses = ["COMP 163", "MATH 110", "ENG 100", "HIS 106"]
+completed_courses = ["Calculus", "Biology ", "Pre calc", "Spanish 1", "World History"]
 credit_hours = [3,3,3,3]
 gpa_history = [3.2,3.6,3.4,3.7]
 #tuples
@@ -86,4 +86,5 @@ print(f"Entertainment Backlog: {len(Entertainment_backlog)} items")
 print(f"Current Hobbies: {len(Hobbies)}activities")
 
 print("================================================================")
+
 
