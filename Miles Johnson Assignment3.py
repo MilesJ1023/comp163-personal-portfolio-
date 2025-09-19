@@ -9,17 +9,17 @@ completed_courses = ["Calculus", "Biology ", "Pre calc", "Spanish 1", "World His
 credit_hours = [3,3,3,3]
 gpa_history = [3.2,3.6,3.4,3.7]
 #tuples
-emergency_contacts = ("Mom","Hannah Smith","704-555-0199")
-home_address = ("456 Oak Street","Charlotte","NC","28202")
-insta_info = ("Instagram", "@jordan_codes",312)
-twitter_info = ("Twitter","@jordandev",127)
-birthday = ("Birthday","5","22","2006")
+emergency_contacts = ("Mom","Crystal Johnson","301-860-2778")
+home_address = ("2279 Duncan Ln","Waldorf","MD","20603")
+insta_info = ("Instagram", "@miles_tkd",1425)
+twitter_info = ("Twitter","@miles_tkd",0)
+birthday = ("Birthday","10","23","2006")
 #sets
-current_skillset = {"Python basics", "HTML", "Problem solving", "Time management", "Photography"}
-skills_to_learn = {"JavaScript","Data structures", "Git","Web design","Public speaking"}
+current_skillset = {"Python basics", "HTML", "Problem solving", "Time management", "Photography, Taekwondo"}
+skills_to_learn = {"Full Python","Data structures", "Git","Web design","Public speaking", "CSS"}
 Career_interest = {"Software development","Web development","Data science","Game development"}
-Hobbies = {"Gaming", "Photography", "Reading", "Soccer", "Music "}
-Entertainment_backlog = {"One Piece", "Barry", "Life", "Incantations", "Memento"}
+Hobbies = {"Gaming", "Photography", "Reading", "Taekwondo"}
+Entertainment_backlog = {"One Piece", "Dexter", "Gintama", "2k", "Breaking Bad"}
 #dictionary
 course_credit_dict = {"COMP 163":3, "MATH 150":3, "ENG 101":3, "HIS 105":3}
 course_professor_dict = {"COMP 163":"Prof. Rhodes", "MATH 150":"Dr. Lee", "ENG 101":"Dr. Martinez", "HIS 105": "Dr. Brown"}
@@ -86,5 +86,6 @@ print(f"Entertainment Backlog: {len(Entertainment_backlog)} items")
 print(f"Current Hobbies: {len(Hobbies)}activities")
 
 print("================================================================")
+
 
 
